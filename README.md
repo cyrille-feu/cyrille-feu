@@ -1,5 +1,5 @@
 
-[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
+[![DevIncept logo image link](logo_link.png)](https://devincept.tech/)
 
 ### Hi there 👋
 Iam a Cameroonian engineer in industrial engineering, excellent at design, project management and handling pressure. 
