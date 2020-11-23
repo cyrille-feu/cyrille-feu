@@ -1,5 +1,6 @@
 
-[![LinkedIn profile](logo_link.png)](https://www.linkedin.com/in/cyrille-feudjio) [![Gmail profile](logo_gmail.png)](cyrille.feudjio@aims-cameroon.org)
+[![LinkedIn profile](logo_link.png)](https://www.linkedin.com/in/cyrille-feudjio)
+
 
 
 ### Hi there 👋
