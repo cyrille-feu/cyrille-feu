@@ -1,5 +1,7 @@
 
-[![DevIncept logo image link](logo_link.png)](https://devincept.tech/)
+[![LinkedIn profile](logo_link.png)](https://www.linkedin.com/in/cyrille-feudjio)
+[![Gmail profile](logo_gmail.png)](cyrille.feudjio@aims-cameroon.org)
+
 
 ### Hi there 👋
 Iam a Cameroonian engineer in industrial engineering, excellent at design, project management and handling pressure. 
