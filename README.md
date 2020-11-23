@@ -1,3 +1,6 @@
+
+[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
+
 ### Hi there 👋
 Iam a Cameroonian engineer in industrial engineering, excellent at design, project management and handling pressure. 
 I am heavily interested in new technologies and the possible applications of tools from data science and artificial intelligence in all industrial area. 
